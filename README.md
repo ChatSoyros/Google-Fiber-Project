@@ -24,7 +24,8 @@ Step-by-Step Process
 •	Designed and implemented a comprehensive dashboard using the insights gained from the mockup and custom charts.
 
 4.	Executive Summary
-•	Produced an executive summary document detailing the business requirements of the Google Fiber customer service team, project objectives, dashboard capabilities, and the business intelligence techniques utilized.
+•	Produced an executive summary document detailing the business requirements of the Google Fiber customer service team, project objectives, dashboard capabilities, and the business intelligence techniques 
+        utilized.
 •	Condensed the essential elements of the project to furnish stakeholders with a holistic outline.
        
 Conclusion
